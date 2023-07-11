@@ -51,7 +51,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
-### DESIGN
+### DESIGN & TOOLS
 
 ![Figma](https://img.shields.io/badge/Figma-FE7A16?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-cc6600?style=for-the-badge&logo=adobeillustrator&logoColor=white)
