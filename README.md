@@ -1,5 +1,5 @@
 <img align="center" alt="coding" width="1200" src="https://pbs.twimg.com/profile_banners/1253975510289391617/1686626965/1500x500">
-<h1 align="center">Hey there 👋, I'm Kelechi David!</h1>
+<h1 align="center">Hi👋, I'm Kelechi David!</h1>
 <h3 align="center">I'm a passionate full-stack developer with expertise in React, JavaScript, Node.js, Express.js, and MongoDB. With a background in web development, I love turning ideas into beautifully functional applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/davekels_" target="blank"><img src="https://img.shields.io/twitter/follow/davekels_?logo=twitter&style=for-the-badge" alt="davekels_" /></a> </p>
