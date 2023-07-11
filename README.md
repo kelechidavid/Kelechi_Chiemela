@@ -8,7 +8,7 @@
 - 💻 Experience in building responsive and scalable web applications using React, crafting dynamic user interfaces that provide a seamless user experience.
 - 🌐 Knowledge in JavaScript and Node.js, leveraging their power to develop robust server-side applications and RESTful APIs.
 - ⚡️ Knowledge of Express.js for creating efficient and secure web servers, handling routes, and implementing middleware.
-- 📦 Knowledge in MongoDB for database management, enabling seamless integration of data into applications and ensuring optimal performance.
+- 📦 Knowledge in MongoDB for database management, enabling seamless integration of data into applications.
 - 🎨 A keen eye for design and user experience, resulting in visually appealing interfaces that prioritize usability and accessibility.
 - 🤝 Effective collaboration and communication skills, working seamlessly with cross-functional teams to deliver high-quality solutions.
 - 📫 How to reach me **kelechichiemela@gmail.com**
